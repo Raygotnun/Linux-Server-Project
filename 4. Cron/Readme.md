@@ -133,10 +133,10 @@ sudo crontab -e
 **CRON Schedule Format:**
 
 - **Minute**: 0
-- **Hour**: 2 (2 AM)
+- **Hour**: 0 (0 AM)
 - **Day of Month**: *
 - **Month**: *
-- **Day of Week**: *
+- **Day of Week**: 0
 
 ---
 
