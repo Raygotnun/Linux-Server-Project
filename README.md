@@ -50,7 +50,7 @@ The project simulates a server environment in a NAT network where we configure *
 **[2. DNS Server (BIND)](https://github.com/Raygotnun/Linux-Server-Project)**
 - **Service**: The DNS server (BIND9) was configured to resolve local domain names (`library.local`) to IP addresses.
   
-**[3. Web Server (Nginx)](https://github.com/Raygotnun/Linux-Server-Project)**
+**[3. Web Server (Nginx)]([https://github.com/Raygotnun/Linux-Server-Project](https://github.com/Raygotnun/Linux-Server-Project/tree/3515e3c8d36f7ba872ae70193891ea48bcef6729/3.%20WebServer)**
 - **Service**: The Nginx web server was set up to serve static pages and allow remote access via HTTP.
   
 **[4. Cron Jobs](https://github.com/Raygotnun/Linux-Server-Project)**
