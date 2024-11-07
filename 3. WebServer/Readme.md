@@ -4,6 +4,11 @@
 
 The objective is to set up a web server capable of hosting a local webpage. This report focuses on the installation and configuration of an Nginx web server on a Debian system. Nginx is a high-performance HTTP server and reverse proxy, renowned for its stability, rich feature set, and low resource consumption. By deploying Nginx, we aim to create a robust platform for serving web content locally, which will lay the groundwork for understanding web server management and deployment in a Linux environment.
 
+## **About NGINX**
+
+Nginx is a high-performance, open-source web server known for its efficiency and scalability, commonly used for serving static files, reverse proxying, load balancing, and handling large amounts of concurrent traffic. Designed with an event-driven architecture, Nginx can manage thousands of simultaneous connections with low resource usage, making it ideal for high-traffic websites and applications. It supports various protocols, including HTTP, HTTPS, and TCP/UDP, and can easily integrate with applications and databases. Nginx is widely used to improve application speed and reliability, offering flexibility through modules and configuration options for different server roles.
+
+
 ---
 
 ## **Prerequisites**
