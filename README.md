@@ -111,6 +111,7 @@ The project simulates a server environment in a NAT network where we configure *
 ## Contributors
 
 - **Name** - put the damn roles
+- **Stephane Paris** - Configuration & Documention
 
 ---
 
