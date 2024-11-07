@@ -22,7 +22,7 @@ In our case
 
 - **System Configurations**: `/etc/`
 - **User Data**: `/root/`
-- **Web Server Files**: `/var/www/` (if applicable)
+- **Web Server Files**: `/var/www/` 
 
 
 ---
