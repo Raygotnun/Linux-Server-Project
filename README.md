@@ -24,7 +24,7 @@ The project simulates a server environment in a NAT network where we configure *
 
 ---
 
-**[IP Table](https://github.com/Raygotnun/Linux-Server-Project)**
+**IP Table**
 
 | Device             | IP Address  |
 |--------------------|-------------|
