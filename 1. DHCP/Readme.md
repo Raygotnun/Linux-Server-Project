@@ -1,9 +1,5 @@
 
 
-
-
-
-
 Here's are the details for setting up a DHCP server on a Linux (Ubuntu) server:
 
 ```markdown
@@ -14,6 +10,8 @@ Here’s the step-by-step process I followed to set up a DHCP server on my Linux
 ---
 
 ## Step 1: System Preparation
+## Step 1: System Prepration!
+
 
 First, I made sure my system was up to date. This keeps everything running smoothly and avoids compatibility issues:
 
@@ -118,8 +116,6 @@ sudo tail -f /var/log/syslog
 
 The log usually provided details on what might be wrong with the configuration.
 
-
-This configuration reserves `192.168.1.150` for a device with MAC address `00:11:22:33:44:55`.
 
 ## Conclusion
 
