@@ -9,9 +9,9 @@ Here’s the step-by-step process I followed to set up a DHCP server on my Linux
 
 ---
 
-## Step 1: System Preparation
-## Step 1: System Prepration!
 
+```
+## Step 1: System Preparation
 
 First, I made sure my system was up to date. This keeps everything running smoothly and avoids compatibility issues:
 
