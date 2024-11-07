@@ -1,4 +1,5 @@
 <img src="assets/Dalibrary.webp">
+
 # Linux-Server-Project
 
 Welcome to the Linux Server Project! In this project, we aim to set up a variety of network services on a Linux-based server, including **DHCP**, **DNS**, **Web Server (Nginx)**, **Cron jobs**, and **SSH**. The goal is to provide a fully functional server environment where all these services work in harmony to support a small-scale network.
