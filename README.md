@@ -30,7 +30,8 @@ The project simulates a server environment in a NAT network where we configure *
 
 | Device             | IP Address  |
 |--------------------|-------------|
-| **Server (DHCP/DNS)** | `10.0.2.15/24`   |
+| **Server (DHCP/DNS)** | `172.16.0.0/24`   |
+| **Server (NAT)** | `10.0.2.15/24`   |
 | **Client**          | `DHCP Assigned`   |
 
 ---
