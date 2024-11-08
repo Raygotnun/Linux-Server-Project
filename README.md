@@ -44,19 +44,19 @@ The project simulates a server environment in a NAT network where we configure *
 ---
 
 ### Key Services Configured
-**[1. DHCP Server](https://github.com/Raygotnun/Linux-Server-Project)**
+**[1. DHCP Server](https://github.com/Raygotnun/Linux-Server-Project/tree/main/1.%20DHCP)**
 - **Service**: The DHCP server was configured to assign dynamic IP addresses to clients on the local network.
   
-**[2. DNS Server (BIND)](https://github.com/Raygotnun/Linux-Server-Project)**
+**[2. DNS Server (BIND)](https://github.com/Raygotnun/Linux-Server-Project/tree/main/2.%20DNS)**
 - **Service**: The DNS server (BIND9) was configured to resolve local domain names (`library.local`) to IP addresses.
   
-**[3. Web Server (Nginx)](https://github.com/Raygotnun/Linux-Server-Project/tree/3515e3c8d36f7ba872ae70193891ea48bcef6729/3.%20WebServer)**
+**[3. Web Server (Nginx)](https://github.com/Raygotnun/Linux-Server-Project/tree/main/3.%20WebServer)**
 - **Service**: The Nginx web server was set up to serve static pages and allow remote access via HTTP.
   
-**[4. Cron Jobs](https://github.com/Raygotnun/Linux-Server-Project)**
+**[4. Cron Jobs](https://github.com/Raygotnun/Linux-Server-Project/tree/main/4.%20Cron)**
 - **Service**: Cron jobs were used to automate scheduled tasks on the server.
 
-**[5. SSH Server](https://github.com/Raygotnun/Linux-Server-Project)**
+**[5. SSH Server](https://github.com/Raygotnun/Linux-Server-Project/tree/main/5.%20SSH)**
 - **Service**: SSH (Secure Shell) was configured to allow remote connections to the server.
 
 ---
@@ -112,7 +112,7 @@ The project simulates a server environment in a NAT network where we configure *
 
 ## Contributors
 
-- **Name** - put the damn roles
+- **Rayane oulad** - Configuration & Documentation
 - **Stephane Paris** - Configuration & Documention
 - **Nidhi Tyagi** - configuration
 
