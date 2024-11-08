@@ -115,7 +115,7 @@ The project simulates a server environment in a NAT network where we configure *
 
 - **Rayane oulad** - Configuration & Documentation
 - **Stephane Paris** - Configuration & Documention
-- **Nidhi Tyagi** - configuration
+- **Nidhi Tyagi** - Configuration
 
 ---
 
